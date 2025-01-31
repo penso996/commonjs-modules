@@ -11,4 +11,4 @@ function person() {
     };
 }
 
-module.exports = person;
+console.log(person());
